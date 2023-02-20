@@ -1,0 +1,28 @@
+.card{
+    background-color: rgba(120, 128, 128, 0.338);
+  height:150px;
+  width:300px;
+  display:flex;
+  align-items: center;
+  border: 2px solid black;
+}
+.image{
+    border-style: groove;
+    object-fit: cover; 
+    height: 70px;
+    width:70px ;
+    margin: 10px;
+}
+h1{
+    font-size: medium;
+    margin-top: 25px;
+}
+p{
+    font-size: small;
+}
+.info{ 
+    /* text-align: right; */
+    height: 145px;
+    width:90px ;
+    /* overflow: hidden; */
+}
